@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MapeamentoResidenciais</string>
+
+    <string name="nome_residencial">Residencial:</string>
+    <string name="nome_quadra">Quadra:</string>
+    <string name="nome_bloco">Bloco:</string>
+    <string name="nome_rota">Rota</string>
+
 </resources>
