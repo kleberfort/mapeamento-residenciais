@@ -47,6 +47,123 @@ public class JoseEuclidesQuadra1 {
     private static final double LAT_BLOCO15 = -3.851530;
     private static final double LONG_BLOCO15 = -38.518681;
 
+    public static double getLatBloco1() {
+        return LAT_BLOCO1;
+    }
 
+    public static double getLongBloco1() {
+        return LONG_BLOCO1;
+    }
 
+    public static double getLatBloco2() {
+        return LAT_BLOCO2;
+    }
+
+    public static double getLongBloco2() {
+        return LONG_BLOCO2;
+    }
+
+    public static double getLatBloco3() {
+        return LAT_BLOCO3;
+    }
+
+    public static double getLongBloco3() {
+        return LONG_BLOCO3;
+    }
+
+    public static double getLatBloco4() {
+        return LAT_BLOCO4;
+    }
+
+    public static double getLongBloco4() {
+        return LONG_BLOCO4;
+    }
+
+    public static double getLatBloco5() {
+        return LAT_BLOCO5;
+    }
+
+    public static double getLongBloco5() {
+        return LONG_BLOCO5;
+    }
+
+    public static double getLatBloco6() {
+        return LAT_BLOCO6;
+    }
+
+    public static double getLongBloco6() {
+        return LONG_BLOCO6;
+    }
+
+    public static double getLatBloco7() {
+        return LAT_BLOCO7;
+    }
+
+    public static double getLongBloco7() {
+        return LONG_BLOCO7;
+    }
+
+    public static double getLatBloco8() {
+        return LAT_BLOCO8;
+    }
+
+    public static double getLongBloco8() {
+        return LONG_BLOCO8;
+    }
+
+    public static double getLatBloco9() {
+        return LAT_BLOCO9;
+    }
+
+    public static double getLongBloco9() {
+        return LONG_BLOCO9;
+    }
+
+    public static double getLatBloco10() {
+        return LAT_BLOCO10;
+    }
+
+    public static double getLongBloco10() {
+        return LONG_BLOCO10;
+    }
+
+    public static double getLatBloco11() {
+        return LAT_BLOCO11;
+    }
+
+    public static double getLongBloco11() {
+        return LONG_BLOCO11;
+    }
+
+    public static double getLatBloco12() {
+        return LAT_BLOCO12;
+    }
+
+    public static double getLongBloco12() {
+        return LONG_BLOCO12;
+    }
+
+    public static double getLatBloco13() {
+        return LAT_BLOCO13;
+    }
+
+    public static double getLongBloco13() {
+        return LONG_BLOCO13;
+    }
+
+    public static double getLatBloco14() {
+        return LAT_BLOCO14;
+    }
+
+    public static double getLongBloco14() {
+        return LONG_BLOCO14;
+    }
+
+    public static double getLatBloco15() {
+        return LAT_BLOCO15;
+    }
+
+    public static double getLongBloco15() {
+        return LONG_BLOCO15;
+    }
 }

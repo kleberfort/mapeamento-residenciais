@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="lista_bloco_ate13">
+        <item>Bloco - 1</item>
+        <item>Bloco - 2</item>
+        <item>Bloco - 3</item>
+        <item>Bloco - 4</item>
+        <item>Bloco - 5</item>
+        <item>Bloco - 6</item>
+        <item>Bloco - 7</item>
+        <item>Bloco - 8</item>
+        <item>Bloco - 9</item>
+        <item>Bloco - 10</item>
+        <item>Bloco - 11</item>
+        <item>Bloco - 12</item>
+        <item>Bloco - 13</item>
+    </string-array>
+
+    <string-array name="lista_bloco_ate14">
+        <item>Bloco - 1</item>
+        <item>Bloco - 2</item>
+        <item>Bloco - 3</item>
+        <item>Bloco - 4</item>
+        <item>Bloco - 5</item>
+        <item>Bloco - 6</item>
+        <item>Bloco - 7</item>
+        <item>Bloco - 8</item>
+        <item>Bloco - 9</item>
+        <item>Bloco - 10</item>
+        <item>Bloco - 11</item>
+        <item>Bloco - 12</item>
+        <item>Bloco - 13</item>
+        <item>Bloco - 14</item>
+    </string-array>
+
+
+    <string-array name="lista_bloco_ate15">
+        <item>Bloco - 1</item>
+        <item>Bloco - 2</item>
+        <item>Bloco - 3</item>
+        <item>Bloco - 4</item>
+        <item>Bloco - 5</item>
+        <item>Bloco - 6</item>
+        <item>Bloco - 7</item>
+        <item>Bloco - 8</item>
+        <item>Bloco - 9</item>
+        <item>Bloco - 10</item>
+        <item>Bloco - 11</item>
+        <item>Bloco - 12</item>
+        <item>Bloco - 13</item>
+        <item>Bloco - 14</item>
+        <item>Bloco - 15</item>
+    </string-array>
+
+    <string-array name="lista_bloco_ate16">
+        <item>Bloco - 1</item>
+        <item>Bloco - 2</item>
+        <item>Bloco - 3</item>
+        <item>Bloco - 4</item>
+        <item>Bloco - 5</item>
+        <item>Bloco - 6</item>
+        <item>Bloco - 7</item>
+        <item>Bloco - 8</item>
+        <item>Bloco - 9</item>
+        <item>Bloco - 10</item>
+        <item>Bloco - 11</item>
+        <item>Bloco - 12</item>
+        <item>Bloco - 13</item>
+        <item>Bloco - 14</item>
+        <item>Bloco - 15</item>
+        <item>Bloco - 16</item>
+    </string-array>
+
+    <string-array name="lista_bloco_ate17">
+        <item>Bloco - 1</item>
+        <item>Bloco - 2</item>
+        <item>Bloco - 3</item>
+        <item>Bloco - 4</item>
+        <item>Bloco - 5</item>
+        <item>Bloco - 6</item>
+        <item>Bloco - 7</item>
+        <item>Bloco - 8</item>
+        <item>Bloco - 9</item>
+        <item>Bloco - 10</item>
+        <item>Bloco - 11</item>
+        <item>Bloco - 12</item>
+        <item>Bloco - 13</item>
+        <item>Bloco - 14</item>
+        <item>Bloco - 15</item>
+        <item>Bloco - 16</item>
+        <item>Bloco - 17</item>
+    </string-array>
+
+
+    <string-array name="lista_bloco_ate18">
+        <item>Bloco - 1</item>
+        <item>Bloco - 2</item>
+        <item>Bloco - 3</item>
+        <item>Bloco - 4</item>
+        <item>Bloco - 5</item>
+        <item>Bloco - 6</item>
+        <item>Bloco - 7</item>
+        <item>Bloco - 8</item>
+        <item>Bloco - 9</item>
+        <item>Bloco - 10</item>
+        <item>Bloco - 11</item>
+        <item>Bloco - 12</item>
+        <item>Bloco - 13</item>
+        <item>Bloco - 14</item>
+        <item>Bloco - 15</item>
+        <item>Bloco - 16</item>
+        <item>Bloco - 17</item>
+        <item>Bloco - 18</item>
+    </string-array>
+
+    <string-array name="lista_bloco_ate19">
+        <item>Bloco - 1</item>
+        <item>Bloco - 2</item>
+        <item>Bloco - 3</item>
+        <item>Bloco - 4</item>
+        <item>Bloco - 5</item>
+        <item>Bloco - 6</item>
+        <item>Bloco - 7</item>
+        <item>Bloco - 8</item>
+        <item>Bloco - 9</item>
+        <item>Bloco - 10</item>
+        <item>Bloco - 11</item>
+        <item>Bloco - 12</item>
+        <item>Bloco - 13</item>
+        <item>Bloco - 14</item>
+        <item>Bloco - 15</item>
+        <item>Bloco - 16</item>
+        <item>Bloco - 17</item>
+        <item>Bloco - 18</item>
+        <item>Bloco - 19</item>
+    </string-array>
+
+    <string-array name="lista_bloco_ate20">
+        <item>Bloco - 1</item>
+        <item>Bloco - 2</item>
+        <item>Bloco - 3</item>
+        <item>Bloco - 4</item>
+        <item>Bloco - 5</item>
+        <item>Bloco - 6</item>
+        <item>Bloco - 7</item>
+        <item>Bloco - 8</item>
+        <item>Bloco - 9</item>
+        <item>Bloco - 10</item>
+        <item>Bloco - 11</item>
+        <item>Bloco - 12</item>
+        <item>Bloco - 13</item>
+        <item>Bloco - 14</item>
+        <item>Bloco - 15</item>
+        <item>Bloco - 16</item>
+        <item>Bloco - 17</item>
+        <item>Bloco - 18</item>
+        <item>Bloco - 19</item>
+        <item>Bloco - 20</item>
+    </string-array>
+
+    <string-array name="lista_bloco_ate22">
+        <item>Bloco - 1</item>
+        <item>Bloco - 2</item>
+        <item>Bloco - 3</item>
+        <item>Bloco - 4</item>
+        <item>Bloco - 5</item>
+        <item>Bloco - 6</item>
+        <item>Bloco - 7</item>
+        <item>Bloco - 8</item>
+        <item>Bloco - 9</item>
+        <item>Bloco - 10</item>
+        <item>Bloco - 11</item>
+        <item>Bloco - 12</item>
+        <item>Bloco - 13</item>
+        <item>Bloco - 14</item>
+        <item>Bloco - 15</item>
+        <item>Bloco - 16</item>
+        <item>Bloco - 17</item>
+        <item>Bloco - 18</item>
+        <item>Bloco - 19</item>
+        <item>Bloco - 20</item>
+        <item>Bloco - 21</item>
+        <item>Bloco - 22</item>
+    </string-array>
+
+    <string-array name="lista_bloco_ate31">
+        <item>Bloco - 1</item>
+        <item>Bloco - 2</item>
+        <item>Bloco - 3</item>
+        <item>Bloco - 4</item>
+        <item>Bloco - 5</item>
+        <item>Bloco - 6</item>
+        <item>Bloco - 7</item>
+        <item>Bloco - 8</item>
+        <item>Bloco - 9</item>
+        <item>Bloco - 10</item>
+        <item>Bloco - 11</item>
+        <item>Bloco - 12</item>
+        <item>Bloco - 13</item>
+        <item>Bloco - 14</item>
+        <item>Bloco - 15</item>
+        <item>Bloco - 16</item>
+        <item>Bloco - 17</item>
+        <item>Bloco - 18</item>
+        <item>Bloco - 19</item>
+        <item>Bloco - 20</item>
+        <item>Bloco - 21</item>
+        <item>Bloco - 22</item>
+        <item>Bloco - 23</item>
+        <item>Bloco - 24</item>
+        <item>Bloco - 25</item>
+        <item>Bloco - 26</item>
+        <item>Bloco - 27</item>
+        <item>Bloco - 28</item>
+        <item>Bloco - 29</item>
+        <item>Bloco - 30</item>
+        <item>Bloco - 31</item>
+    </string-array>
+
+</resources>

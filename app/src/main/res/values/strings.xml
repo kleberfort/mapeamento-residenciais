@@ -6,46 +6,9 @@
     <string name="nome_bloco">Bloco:</string>
     <string name="nome_rota">Rota</string>
 
-    <string-array name="lista_residenciais">
-        <item>José Euclides</item>
-        <item>Alameda das Palmeiras</item>
-        <item>Luis Gonzaga</item>
-    </string-array>
 
-    <string-array name="lista_quadras_jose_euclides">
-        <item>Quadra - 1</item>
-        <item>Quadra - 2</item>
-        <item>Quadra - 3</item>
-        <item>Quadra - 4</item>
-        <item>Quadra - 5</item>
-        <item>Quadra - 6</item>
-        <item>Quadra - 7</item>
-        <item>Quadra - 8</item>
-        <item>Quadra - 9A</item>
-        <item>Quadra - 9B</item>
-        <item>Quadra - 10A</item>
-        <item>Quadra - 10B</item>
 
-    </string-array>
 
-    <string-array name="lista_blocos">
-        <item>Bloco - 1</item>
-        <item>Bloco - 2</item>
-        <item>Bloco - 3</item>
-        <item>Bloco - 4</item>
-        <item>Bloco - 5</item>
-        <item>Bloco - 6</item>
-        <item>Bloco - 7</item>
-        <item>Bloco - 8</item>
-        <item>Bloco - 9</item>
-        <item>Bloco - 10</item>
-        <item>Bloco - 11</item>
-        <item>Bloco - 12</item>
-        <item>Bloco - 13</item>
-        <item>Bloco - 14</item>
-        <item>Bloco - 15</item>
-        <item>Bloco - 16</item>
-        <item>Bloco - 17</item>
-        </string-array>
+
 
 </resources>

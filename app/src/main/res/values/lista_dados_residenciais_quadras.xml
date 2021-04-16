@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="lista_residenciais">
+        <item>José Euclides</item>
+        <item>Luis Gonzaga</item>
+    </string-array>
+
+<string-array name="quadra_je">
+    <item>Quadra - 1</item>
+    <item>Quadra - 2</item>
+    <item>Quadra - 3</item>
+    <item>Quadra - 4</item>
+    <item>Quadra - 5</item>
+    <item>Quadra - 6</item>
+    <item>Quadra - 7</item>
+    <item>Quadra - 8</item>
+    <item>Quadra - 9A</item>
+    <item>Quadra - 9B</item>
+    <item>Quadra - 10A</item>
+    <item>Quadra - 10B</item>
+</string-array>
+
+    <string-array name="quadra_lg">
+        <item>Asa Branca</item>
+        <item>Assum Preto</item>
+        <item>Humberto Teixeira</item>
+        <item>Mandacaru</item>
+        <item>Sabiá</item>
+    </string-array>
+
+
+    </resources>
