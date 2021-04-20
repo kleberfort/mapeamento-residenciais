@@ -2,6 +2,7 @@ package com.example.mapeamentoresidenciais;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.DialogInterface;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -12,6 +13,9 @@ import android.widget.Spinner;
 import android.widget.Toast;
 
 import com.example.mapeamentoresidenciais.listaDeResidenciais.joseEuclides.JoseEuclidesQuadra1;
+import com.google.android.gms.common.ConnectionResult;
+import com.google.android.gms.common.GoogleApiAvailability;
+import com.google.android.gms.common.GoogleApiAvailabilityLight;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
@@ -30,6 +34,8 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     private ArrayAdapter<CharSequence> adpResidenciais,adpQdJe, adpQdLg, adpBlocos;
 
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -38,6 +44,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         spnResidenciais = findViewById(R.id.spinnerResidencial);
         spnQuadras = findViewById(R.id.spinnerQuadra);
         spnBlocos = findViewById(R.id.spinnerBloco);
+
 
 
         carregarListaResidenciais();
@@ -812,7 +819,29 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
     }//fim do método onStart
 
+    @Override
+    protected void onResume() {
+        super.onResume();
 
+        int errorCode = GoogleApiAvailability.getInstance().isGooglePlayServicesAvailable(this);
+        switch (errorCode){
+            case ConnectionResult.SERVICE_MISSING:
+            case ConnectionResult.SERVICE_VERSION_UPDATE_REQUIRED:
+            case ConnectionResult.SERVICE_DISABLED:
+                Log.d("Teste", "Show Dialog");
+                GoogleApiAvailability.getInstance().getErrorDialog(this, errorCode,
+                        0, new DialogInterface.OnCancelListener() {
+                            @Override
+                            public void onCancel(DialogInterface dialog) {
+                                finish();
+                            }
+                        }).show();
+                break;
+            case ConnectionResult.SUCCESS:
+                Log.d("Teste", "Google Play Services up-to-update");
+                break;
+        }
+    }
 
     @Override
     public void onMapReady(GoogleMap googleMap) {
